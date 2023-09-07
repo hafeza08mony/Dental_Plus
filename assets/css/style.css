@@ -527,10 +527,6 @@ p{
     color: #fff;
 }
 
-.owl-carousel .owl-item img {
-    display: inblock;
-    width: 15%;
-}
 
 .brand-carousel .owl-nav button.owl-prev {
     position: absolute;
